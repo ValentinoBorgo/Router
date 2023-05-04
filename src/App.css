@@ -1,0 +1,8 @@
+body{
+  text-align: center;
+}
+
+nav a.isActive{
+  font-weight: bold;
+  pointer-events: none;
+}
